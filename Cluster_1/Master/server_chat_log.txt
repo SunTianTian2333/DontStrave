@@ -1,8 +1,2 @@
-[00:02:13]: [Join Announcement] Brain
-[00:03:14]: [Join Announcement] Qaint
-[00:18:24]: [Skin Announcement] Qaint hand_wanda_yule
-[00:32:23]: [Leave Announcement] Qaint
-[00:33:16]: [Join Announcement] Qaint
-[02:02:54]: [Skin Announcement] Qaint feet_ankleboot_red_firehound
-[02:03:43]: [Leave Announcement] Qaint
-[02:05:48]: [Leave Announcement] Brain
+[00:01:09]: [Join Announcement] Brain
+[02:03:30]: [Leave Announcement] Brain
