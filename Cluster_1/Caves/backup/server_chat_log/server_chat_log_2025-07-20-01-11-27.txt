@@ -1,0 +1,5 @@
+[00:01:01]: [Join Announcement] Brain
+[00:11:44]: [Death Announcement] Brain 死于： 青蛙。他变成了可怕的鬼魂！
+[00:11:53]: [Vote Announcement] rollback passed
+[00:41:15]: [Vote Announcement] rollback passed
+[01:27:15]: [Leave Announcement] Brain

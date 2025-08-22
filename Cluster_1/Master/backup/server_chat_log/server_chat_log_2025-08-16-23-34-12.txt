@@ -1,0 +1,8 @@
+[00:01:54]: [Join Announcement] Brain
+[00:20:21]: [Announcement] 你感觉到有一种邪恶的存在在看着你……
+[00:20:31]: [Announcement] 恐怖之眼盯上了Brain
+[00:28:37]: [Announcement] 你感觉到有一种邪恶的存在在看着你……
+[00:28:47]: [Announcement] 恐怖之眼盯上了Brain
+[00:29:39]: [Vote Announcement] rollback passed
+[00:29:46]: [Death Announcement] Brain 死于： 恐怖之眼。他变成了可怕的鬼魂！
+[00:30:42]: [Leave Announcement] Brain

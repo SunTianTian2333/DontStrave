@@ -1,0 +1,4 @@
+[00:00:59]: [Join Announcement] Brain
+[00:01:28]: [Vote Announcement] rollback passed
+[00:02:17]: [Vote Announcement] rollback passed
+[00:55:07]: [Leave Announcement] Brain

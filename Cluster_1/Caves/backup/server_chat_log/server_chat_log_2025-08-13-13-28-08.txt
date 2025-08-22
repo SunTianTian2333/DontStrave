@@ -1,0 +1,6 @@
+[00:02:03]: [Join Announcement] Brain
+[01:29:26]: [Announcement] 你感觉到有一种邪恶的存在在看着你……
+[01:29:36]: [Announcement] 恐怖之眼盯上了Brain
+[02:53:55]: [Vote Announcement] rollback passed
+[02:53:59]: [Death Announcement] Brain 死于： 麋鹿鹅幼崽。他变成了可怕的鬼魂！
+[03:01:03]: [Leave Announcement] Brain

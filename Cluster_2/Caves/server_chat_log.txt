@@ -1,0 +1,8 @@
+[00:01:54]: [Join Announcement] Brain
+[00:10:57]: [Death Announcement] Brain 死于： 蜂王。他变成了可怕的鬼魂！
+[00:11:13]: [Resurrect Announcement] Brain 复活自： TMIP 控制台.
+[00:13:21]: [Death Announcement] Brain 死于： 熊獾。他变成了可怕的鬼魂！
+[00:13:25]: [Resurrect Announcement] Brain 复活自： TMIP 控制台.
+[00:13:55]: [Death Announcement] Brain 死于： 熊獾。他变成了可怕的鬼魂！
+[00:13:59]: [Resurrect Announcement] Brain 复活自： TMIP 控制台.
+[00:31:10]: [Leave Announcement] Brain

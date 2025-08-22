@@ -1,0 +1,4 @@
+[00:02:00]: [Join Announcement] Brain
+[00:09:35]: [Announcement] 你感觉到有一种邪恶的存在在看着你……
+[00:09:45]: [Announcement] 恐怖之眼盯上了Brain
+[02:08:57]: [Leave Announcement] Brain

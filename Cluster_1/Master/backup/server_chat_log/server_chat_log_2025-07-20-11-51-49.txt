@@ -1,0 +1,4 @@
+[00:01:27]: [Join Announcement] Brain
+[00:39:22]: [Death Announcement] Brain 死于： 麋鹿鹅幼崽。他变成了可怕的鬼魂！
+[00:39:24]: [Vote Announcement] rollback passed
+[00:57:20]: [Leave Announcement] Brain

@@ -1,0 +1,5 @@
+[00:01:51]: [Join Announcement] Brain
+[00:12:11]: [Vote Announcement] rollback passed
+[00:13:56]: [Death Announcement] Brain 死于： 饼干切割机。他变成了可怕的鬼魂！
+[00:14:08]: [Vote Announcement] rollback passed
+[00:14:52]: [Leave Announcement] Brain
