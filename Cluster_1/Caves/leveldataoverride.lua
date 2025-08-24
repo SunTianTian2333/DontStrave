@@ -108,7 +108,7 @@ return {
     touchstone="default",
     trees="default",
     weather="default",
-    winters_feast="default",
+    winters_feast="enabled",
     world_size="default",
     wormattacks="default",
     wormattacks_boss="default",

@@ -1,4 +1,7 @@
 return {
+  custom_settings_desc="",
+  custom_settings_id="CUSTOM_WINTERFEAST",
+  custom_settings_name="winterfeast",
   desc="永不结束的饥荒沙盒模式。\
 永远可以在绚丽之门复活。",
   hideminimap=false,
@@ -184,7 +187,7 @@ return {
     wildfires="default",
     winter="default",
     winterhounds="default",
-    winters_feast="default",
+    winters_feast="enabled",
     wobsters="default",
     world_size="default",
     wormhole_prefab="wormhole",

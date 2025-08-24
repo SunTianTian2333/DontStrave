@@ -1,2 +1,88 @@
-[00:01:09]: [Join Announcement] Brain
-[02:03:30]: [Leave Announcement] Brain
+[00:02:24]: [Join Announcement] Brain
+[00:02:29]: [Join Announcement] Qaint
+[00:02:43]: [Say] (KU_HQp7BGXk) Qaint: hello
+[00:18:12]: [Death Announcement] Qaint 死于： 蜘蛛战士。她变成了可怕的鬼魂！
+[00:18:21]: [Vote Announcement] rollback passed
+[00:18:24]: [Say] (KU_HQp7BGXk) Qaint: 回档
+[00:19:11]: [Say] (KU_HQp7BGXk) Qaint: 十几蜘蛛
+[00:19:16]: [Say] (KU_HQp7BGXk) Qaint: 也跑不了了
+[00:19:20]: [Say] (KU_HQp7BGXk) Qaint: 。。。
+[00:19:26]: [Say] (KU_F4GEm1KF) Brain: hahahah
+[00:22:36]: [Say] (KU_F4GEm1KF) Brain: 老徐
+[00:22:52]: [Say] (KU_F4GEm1KF) Brain: 开点月岩矿
+[00:23:02]: [Say] (KU_HQp7BGXk) Qaint: ok
+[00:23:12]: [Say] (KU_HQp7BGXk) Qaint: 正好在附近
+[00:23:25]: [Say] (KU_F4GEm1KF) Brain: neng kai duo shao kai duo shao
+[00:23:31]: [Say] (KU_HQp7BGXk) Qaint: 1
+[00:23:38]: [Say] (KU_F4GEm1KF) Brain: ba na ge kai kuang diao de yue qiu dai hui lai
+[00:24:00]: [Say] (KU_F4GEm1KF) Brain: da shu ke yi duo yu
+[00:28:16]: [Say] (KU_HQp7BGXk) Qaint: 刚才那里不是陨石区
+[00:28:21]: [Say] (KU_HQp7BGXk) Qaint: 吗
+[00:28:31]: [Say] (KU_HQp7BGXk) Qaint: 没有月岩矿
+[00:28:49]: [Say] (KU_HQp7BGXk) Qaint: 身上有四个月岩
+[00:28:52]: [Say] (KU_F4GEm1KF) Brain: lai wo zhe
+[00:29:12]: [Say] (KU_HQp7BGXk) Qaint: 你看我这边这个是吗
+[00:29:23]: [Say] (KU_HQp7BGXk) Qaint: 我跳了虫洞过来的
+[00:29:40]: [Say] (KU_F4GEm1KF) Brain: deng xia
+[00:29:44]: [Say] (KU_HQp7BGXk) Qaint: 1
+[00:32:05]: [Say] (KU_HQp7BGXk) Qaint: cao
+[00:32:09]: [Say] (KU_HQp7BGXk) Qaint: 过不去
+[00:32:12]: [Say] (KU_HQp7BGXk) Qaint: 哈哈哈
+[00:32:53]: [Say] (KU_F4GEm1KF) Brain: wx
+[00:32:59]: [Say] (KU_HQp7BGXk) Qaint: 能造个草坪让我跳过去吗
+[00:34:09]: [Say] (KU_F4GEm1KF) Brain: dai hui jia
+[00:34:14]: [Say] (KU_F4GEm1KF) Brain: wo qu da dian dong xi
+[00:34:15]: [Say] (KU_HQp7BGXk) Qaint: 1
+[00:43:54]: [Death Announcement] Qaint 死于： 恐怖尖喙。她变成了可怕的鬼魂！
+[00:44:02]: [Vote Announcement] rollback passed
+[00:45:52]: [Death Announcement] Qaint 死于： 恐怖尖喙。她变成了可怕的鬼魂！
+[00:46:03]: [Vote Announcement] rollback passed
+[01:00:47]: [Say] (KU_HQp7BGXk) Qaint: kuai
+[01:00:54]: [Say] (KU_HQp7BGXk) Qaint: laidian tai fei tang
+[01:01:14]: [Whisper] (KU_HQp7BGXk) Qaint: 就我狗命
+[01:01:23]: [Say] (KU_F4GEm1KF) Brain: ma shang
+[01:04:03]: [Whisper] (KU_HQp7BGXk) Qaint: 天天能换角色吗
+[01:04:11]: [Say] (KU_F4GEm1KF) Brain: bie ji
+[01:04:15]: [Say] (KU_HQp7BGXk) Qaint: 能做吗
+[01:04:17]: [Say] (KU_F4GEm1KF) Brain: 30 ge yue yan
+[01:04:22]: [Say] (KU_F4GEm1KF) Brain: cai neng huan
+[01:04:25]: [Say] (KU_HQp7BGXk) Qaint: 心态爆炸
+[01:04:39]: [Say] (KU_HQp7BGXk) Qaint: 老奶奶垃圾
+[01:04:42]: [Say] (KU_F4GEm1KF) Brain: zai deng deng
+[01:12:49]: [Say] (KU_F4GEm1KF) Brain: lu wei
+[01:12:52]: [Say] (KU_F4GEm1KF) Brain: hai you mei
+[01:13:02]: [Say] (KU_HQp7BGXk) Qaint: 5ge
+[01:13:09]: [Say] (KU_F4GEm1KF) Brain: gei wo
+[01:13:57]: [Say] (KU_F4GEm1KF) Brain: guo lai na  shan zi
+[01:15:12]: [Say] (KU_F4GEm1KF) Brain: ni cuo ge nuan shi
+[01:15:19]: [Say] (KU_F4GEm1KF) Brain: zhege xia tian bu enng shao
+[01:15:22]: [Say] (KU_HQp7BGXk) Qaint: you
+[01:16:19]: [Say] (KU_F4GEm1KF) Brain: you kong bang wo da ge feng chao
+[01:16:26]: [Say] (KU_F4GEm1KF) Brain: na ge feng la
+[01:17:04]: [Say] (KU_HQp7BGXk) Qaint: zou
+[01:19:03]: [Say] (KU_HQp7BGXk) Qaint: quna
+[01:19:06]: [Say] (KU_HQp7BGXk) Qaint: qu  ma
+[01:19:11]: [Say] (KU_F4GEm1KF) Brain: deng wo
+[01:19:16]: [Say] (KU_F4GEm1KF) Brain: na shan zi
+[01:19:21]: [Say] (KU_F4GEm1KF) Brain: guo lai
+[01:22:22]: [Say] (KU_F4GEm1KF) Brain: zou
+[01:24:47]: [Say] (KU_F4GEm1KF) Brain: zhejiu shi yun shi za chu lai de
+[01:25:01]: [Say] (KU_HQp7BGXk) Qaint: 1
+[01:30:59]: [Say] (KU_F4GEm1KF) Brain: ni you duo shao yue yan
+[01:31:21]: [Say] (KU_HQp7BGXk) Qaint: 0
+[01:31:51]: [Say] (KU_HQp7BGXk) Qaint: 这没刷月岩矿
+[01:32:06]: [Say] (KU_HQp7BGXk) Qaint: 月岩矿中间有蓝色裂缝
+[01:33:41]: [Say] (KU_F4GEm1KF) Brain: ying gai gou le
+[01:33:43]: [Say] (KU_F4GEm1KF) Brain: hui jai
+[01:36:30]: [Say] (KU_HQp7BGXk) Qaint: zhaohuola
+[01:37:00]: [Vote Announcement] rollback passed
+[01:39:26]: [Leave Announcement] Qaint
+[02:16:07]: [Vote Announcement] rollback passed
+[02:16:13]: [Death Announcement] Brain 死于： 沙刺。她变成了可怕的鬼魂！
+[02:22:25]: [Vote Announcement] rollback passed
+[04:31:09]: [Join Announcement] Qaint
+[05:48:31]: [Leave Announcement] Qaint
+[05:49:54]: [Join Announcement] Qaint
+[08:03:43]: [Vote Announcement] rollback passed
+[09:08:39]: [Leave Announcement] Brain
+[09:08:40]: [Leave Announcement] Qaint
